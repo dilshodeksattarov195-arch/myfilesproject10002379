@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvncrypt",
+        "uuid": 15225600,
+        "checksum": "1dxlf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
